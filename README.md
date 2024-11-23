@@ -28,8 +28,6 @@ Setelah deployment selesai, aplikasi dapat diakses di GitHub Pages. Gunakan link
 
 [Link ke aplikasi di GitHub Pages](https://letsgobois24.github.io/ci-cd-21060122120016-elektro/)
 
-**Catatan**: Gantilah `<username>` dan `<repository-name>` dengan nama pengguna dan nama repository GitHub kamu.
-
 ## Teknologi yang Digunakan
 
 - **Node.js**: Versi 20
